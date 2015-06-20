@@ -7,6 +7,7 @@
     "test": "test"
   },
   "dependencies": {
+    "cell-orientation": "^1.0.1",
     "compare-cell": "^1.0.0"
   },
   "devDependencies": {
